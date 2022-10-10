@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Client\ShopTheThao.Client.csproj" />
-    <ProjectReference Include="..\Shared\ShopTheThao.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>
